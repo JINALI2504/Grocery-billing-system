@@ -1,0 +1,21 @@
+Product ID,Item Name,Price,MRP,GST
+1,Milk,50,55,5
+2,Bread,30,35,5
+3,Eggs,5,6,12
+4,Rice,100,120,18
+5,Sugar,40,45,5
+6,Tea,150,165,12
+7,Coffee,200,220,18
+8,Butter,250,270,12
+9,Cheese,220,240,12
+10,Flour,45,50,5
+11,Pasta,80,90,18
+12,Tomato Sauce,60,70,12
+13,Chips,25,30,5
+14,Biscuits,40,45,5
+15,Toothpaste,80,85,12
+16,Soap,25,30,18
+17,Shampoo,120,135,18
+18,Handwash,100,110,18
+19,Oil,180,200,5
+20,Detergent,150,170,18
